@@ -1,4 +1,4 @@
-##Space Bear
+#Space Bear
 
 By: Kiana Mills, Jeanette Lin, Mallika Varkhedi, Audrey Zhang
 
